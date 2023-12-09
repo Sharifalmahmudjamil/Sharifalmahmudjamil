@@ -33,15 +33,28 @@
  
 </div>
 
-
-
-
-
 ## 🏆 GitHub Trophies
+
+<div align='center' >
+
 ![](https://github-profile-trophy.vercel.app/?username=Sharifalmahmudjamil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+ 
+</div>
 
 ### 🔝 Top Contributed Repo
+
+<div align='center' >
+
 ![](https://github-contributor-stats.vercel.app/api?username=Sharifalmahmudjamil&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+ 
+</div>
+
+
+
+
+
+
+
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
