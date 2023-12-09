@@ -15,8 +15,10 @@
 ## 💻My Skills
 [![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,nodejs,tailwind,mongodb,firebase,github,netlify)](https://skillicons.dev)
 
-<div align='center'>
 # 📊 GitHub Stats:
+
+<div align='center'>
+
 ![](https://github-readme-stats.vercel.app/api?username=Sharifalmahmudjamil&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sharifalmahmudjamil&theme=radical&hide_border=false)
 
