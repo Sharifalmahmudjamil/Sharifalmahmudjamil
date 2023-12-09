@@ -33,13 +33,11 @@
 ## 💻My Skills
 [![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,nodejs,tailwind,mongodb,firebase,github,netlify)](https://skillicons.dev)
 
-## GITHUB STATS
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sharifalmahmudjamil&theme=2077)
-
+## Summary of My profile
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sharifalmahmudjamil&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sharifalmahmudjamil&theme=2077)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sharifalmahmudjamil&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sharifalmahmudjamil&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sharifalmahmudjamil&theme=2077&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sharifalmahmudjamil&theme=2077)
