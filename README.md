@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Sharifalmahmudjamil/Sharifalmahmudjamil/main/frontend%20developer%20banner.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Sharifalmahmudjamil/Sharifalmahmudjamil/main/frontend%20developer%20banner.gif "San Juan Mountains")
 
 ### Welcome 👋. I am Sharif Al Mahmud
 
